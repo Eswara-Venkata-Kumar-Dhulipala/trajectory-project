@@ -16,7 +16,7 @@ void trajectory::printtrajectory() const
     }
 
 }
-
+// adding comment to test git
 int trajectory::size() const
 {
     return points.size();
