@@ -16,4 +16,5 @@ int main(){
     std::cout << "Trajectory size: " << traj.size() <<std::endl;
     return 0;
     // added a new branch to test git
+    // adding one more line to test new branch creation understanding
 }
